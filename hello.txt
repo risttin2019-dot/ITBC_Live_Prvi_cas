@@ -1,2 +1,3 @@
 Prva lekcija, prva vezba
 druga linija koda
+nova linija
