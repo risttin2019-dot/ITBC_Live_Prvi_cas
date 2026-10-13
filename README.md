@@ -6,6 +6,6 @@ Kurs je podeljen u tri celine:
 
     - SQL
     - Python
-    - Data pipes
+    - PySpark
 
 Na kraju sledi završni rad.
