@@ -9,3 +9,5 @@ Kurs je podeljen u tri celine:
     - PySpark
 
 Na kraju sledi završni rad.
+
+Izmene kako bih iskoristio git restore
