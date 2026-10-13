@@ -8,4 +8,4 @@ Kurs je podeljen u tri celine:
     - Python
     - PySpark
 
-Na kraju sledi završni rad.
+Na kraju sledi završni rad. VEZBA
